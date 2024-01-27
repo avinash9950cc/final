@@ -59,6 +59,7 @@ h4 {
     font-weight: 600;
     line-height: 1.25em;
     margin: 0 0 20px 0;
+    text-shadow: 4px 4px 30px rgba(0,0,0,0.6);
 }
 
 img {
